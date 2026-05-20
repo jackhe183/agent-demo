@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(bun --version)"
+      "Bash(bun --version)",
+      "WebFetch(domain:github.com)"
     ]
   }
 }
